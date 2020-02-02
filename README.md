@@ -46,7 +46,3 @@ Cloud-Native Apps
 1.  [Working with Cognitive Services](./Student/Guides/hols/03-CognitiveServices.md)
 1.  [Building Machine Learning in Power BI](./Student/Guides/hols/04-PowerBIAutoML)
 1.  [Building Machine Learning in Azure Machine Learning](./Student/Guides/hols/05-AzureML)
-
-## Optional Challenges
-1.	[Scale the Cognitive Service](./Student/Guides/challenges/ScaleCognitive.md)
-1.  [View Data in Cosmos DB](./Student/Guides/challenges/Cosmos.md)
