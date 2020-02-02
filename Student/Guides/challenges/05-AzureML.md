@@ -14,7 +14,7 @@ Adventure Works marketing team loves the insights they've been getting from the 
 1.  Create a new dataflow in Power BI to leverage the published API.
 
 ## Hints
-1.  If you don't want to write code to call the REST API, Postman is a great tool.
+1.  If you don't want to write code to call the REST API, Postman is a great tool. (http://getpostman.com)
 
 
 ## Learning resources
