@@ -48,7 +48,8 @@ Cloud-Native Apps
 1.  [Building Machine Learning in Azure Machine Learning](./Student/Guides/hols/05-AzureML)
 
 ;;; I would like to break 5 up into these three.  That way we have 6 standard sections everyone can do and 1 advanced if we take certan classes that way?  Thoughts?
-1.  [Building Machine Learning in Azure Machine Learning - AutoML](./Student/Guides/hols/04-PowerBIAutoML)
-1.  [Building Machine Learning in Azure Machine Learning - Designer](./Student/Guides/hols/05-AzureML)
+1.  [Building Machine Learning in Azure Machine Learning - Designer](./Student/Guides/hols/05-AML-Designer)
+1.  [Building Machine Learning in Azure Machine Learning - AutoML](./Student/Guides/hols/06-AML-AutoML)
 <br>**Advanced**<br>
-1.  [Building Machine Learning in Azure Machine Learning - Notebooks](./Student/Guides/hols/04-PowerBIAutoML)
+1.  [Building Machine Learning in Azure Machine Learning - Notebooks](./Student/Guides/hols/07-AML-Notebooks)
+
