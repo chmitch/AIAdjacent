@@ -11,6 +11,7 @@ Adventure Works marketing team loves the insights they've been getting from the 
 ## Steps
 
 TODO
+;;; since this is HOL maybe we give them the postman inferencing script so they don't have to figure that part out?  Again I would look at breaking this up into at least two modules (AutoML and Designer)
 
 ## Additional learning materials
 
