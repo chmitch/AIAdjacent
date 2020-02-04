@@ -8,11 +8,12 @@
 
 Adventure Works marketing team loves the insights they've been getting from the Bike Buyer predictive model.  They love it so much, they'd like to apply it more broadly and use it from other systems.  Since the current model can only be used by Power BI, you've been asked to help Adventure Works recreate the model for use outside of Power BI.
 
-## Steps
+## Overview Steps
 
-Big Steps:
 A. Create a dataset with the SQL View Pull 
 B. 
+
+## Exact Steps
 Step 1. Go to http://portal.azure.com (should we point them to .docs website for creating a Workspace?)
 Step 9. Click on 
 
@@ -26,4 +27,4 @@ The following links provide additional information and tutorials on the skills u
 | Create, explore, and deploy automated machine learning experiments with Azure Machine Learning studio                    |        <https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-portal-experiments>         |
 | Azure Machine Learning integration in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
 
-
+[Next lab (Building Machine Learning in Azure Machine Learning - AutoML) >](./05-AML-AutoML.md)

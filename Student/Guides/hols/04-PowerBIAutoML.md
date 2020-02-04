@@ -21,4 +21,4 @@ The following links provide additional information and tutorials on the skills u
 | Automated Machine Learning in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated> |
 
 
-[Next lab (Building Machine Learning in Azure Machine Learning) >](./05-AzureML.md)
+[Next lab (Building Machine Learning in Azure Machine Learning - Designer) >](./05-AML-Designer.md)

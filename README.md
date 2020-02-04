@@ -47,6 +47,6 @@ Cloud-Native Apps
 1.  [Building Machine Learning in Power BI](./Student/Guides/hols/04-PowerBIAutoML)
 1.  [Building Machine Learning in Azure Machine Learning - Designer](./Student/Guides/hols/05-AML-Designer.md)
 1.  [Building Machine Learning in Azure Machine Learning - AutoML](./Student/Guides/hols/06-AML-AutoML.md)
-<br>**Advanced**<br>
+<br>**++ Optional Lab List ++**<br>
 1.  [Building Machine Learning in Azure Machine Learning - Notebooks](./Student/Guides/hols/07-AML-Notebooks.md)
 

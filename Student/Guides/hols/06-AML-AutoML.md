@@ -24,3 +24,7 @@ The following links provide additional information and tutorials on the skills u
 | Azure Machine Learning integration in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
 
 
+##Congratulations!  You have completed the AI Adjacent AI2BI Course.##
+
+You may continue learning with these advanced, optional labs.  
+[Next lab (Building Machine Learning in Azure Machine Learning - Notebooks) >](./05-AML-Notebooks.md)
