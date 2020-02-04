@@ -10,9 +10,19 @@ Adventure Works marketing team loves the insights they've been getting from the 
 
 ## Overview Steps
 
-A. Create a dataset with the SQL View Pull <br> 
-B. 
-![Workflow](/images/l05-i01)
++ Open ML.azure.com<br>
++ Create a datastore to the sql db<br> 
+    - Ensure you have access with your IP to the SQL Server<br>
++ Create a dataset with the SQL View Pull <br>
+    - Profile the data to understand it better <br>
++ 
+
+
+
+![Workflow](./images/l05-i01)
+
+![Workflow2](https://github.com/chmitch/AIAdjacent/tree/master/Student/Guides/hols/images/l05-i01)
+
 ## Exact Steps
 Step 1. Go to http://portal.azure.com (should we point them to .docs website for creating a Workspace?)
 
