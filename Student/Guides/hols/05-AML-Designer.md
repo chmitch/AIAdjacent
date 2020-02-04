@@ -10,8 +10,9 @@ Adventure Works marketing team loves the insights they've been getting from the 
 
 ## Steps
 
-TODO
-First, we are going to understand what Azure Machine Learning is and the tools it contains to help us in our task. 
+Big Steps:
+A. Create a dataset with the SQL View Pull 
+B. 
 Step 1. Go to http://portal.azure.com (should we point them to .docs website for creating a Workspace?)
 Step 9. Click on 
 

@@ -45,9 +45,6 @@ Cloud-Native Apps
 1.  [Working with Data in Power BI](./Student/Guides/hols/02-Dataflows.md)
 1.  [Working with Cognitive Services](./Student/Guides/hols/03-CognitiveServices.md)
 1.  [Building Machine Learning in Power BI](./Student/Guides/hols/04-PowerBIAutoML)
-1.  [Building Machine Learning in Azure Machine Learning](./Student/Guides/hols/05-AzureML)
-
-;;; I am going to break number 5 up into these 3.  That way we have 6 standard sections (about 1.5 days of content) everyone can do and 1 advanced if we take certan classes that way?  Cool?
 1.  [Building Machine Learning in Azure Machine Learning - Designer](./Student/Guides/hols/05-AML-Designer.md)
 1.  [Building Machine Learning in Azure Machine Learning - AutoML](./Student/Guides/hols/06-AML-AutoML.md)
 <br>**Advanced**<br>
