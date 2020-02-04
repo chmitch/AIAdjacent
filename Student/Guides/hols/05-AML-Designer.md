@@ -1,4 +1,4 @@
-# Lab 5 - Building Machine Learning in Azure Machine Learning
+# Lab 5 - Building Machine Learning in Azure Machine Learning - Designer
 
 ## Prerequisities
 
@@ -27,4 +27,4 @@ The following links provide additional information and tutorials on the skills u
 | Create, explore, and deploy automated machine learning experiments with Azure Machine Learning studio                    |        <https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-portal-experiments>         |
 | Azure Machine Learning integration in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
 
-[Next lab (Building Machine Learning in Azure Machine Learning - AutoML) >](./05-AML-AutoML.md)
+[Next lab (Building Machine Learning in Azure Machine Learning - AutoML) >](./06-AML-AutoML.md)

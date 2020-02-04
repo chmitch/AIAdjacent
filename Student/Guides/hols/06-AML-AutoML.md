@@ -1,8 +1,8 @@
-# Lab 5 - Building Machine Learning in Azure Machine Learning
+# Lab 6 - Building Machine Learning in Azure Machine Learning - AutoML
 
 ## Prerequisities
 
-1. [Lab 4 - Building Machine Learning in Power BI](./04-PowerBIAutoML.md) should be done successfuly.
+1. [Lab 5 - Building Machine Learning in Power BI - Designer](./04-AML-Designer.md) should be done successfuly.
 
 ## Introduction
 
@@ -27,4 +27,4 @@ The following links provide additional information and tutorials on the skills u
 ##Congratulations!  You have completed the AI Adjacent AI2BI Course.##
 
 You may continue learning with these advanced, optional labs.  
-[Next lab (Building Machine Learning in Azure Machine Learning - Notebooks) >](./05-AML-Notebooks.md)
+[Next lab (Building Machine Learning in Azure Machine Learning - Notebooks) >](./07-AML-Notebooks.md)
