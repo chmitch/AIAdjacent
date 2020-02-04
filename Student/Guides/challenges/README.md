@@ -1,4 +1,4 @@
-# Welcome to AI Adjacent.
+# Welcome to AI Adjacent!
 
 This content is a challenge based hack.  It's NOT step-by-step. Don't worry, you will do great whatever your level of experience! You will be guided through a series of tasks to implement an end to end solution by leveraging Power BI, Cognitive Services, and Azure ML.
 
