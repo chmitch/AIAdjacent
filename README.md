@@ -1,4 +1,4 @@
-# Welcome to AI Adjacent.
+# Welcome to AI Adjacent!
 
 This content is offered in two forms designed to address different audiences, skill levels, and delivery formats.  These formats include a challenge-based hack and a set of hands on labs.
 1. Challenge based hack - It's NOT step-by-step. Don't worry, you will do great whatever your level of experience! You will be guided through a series of tasks to implement an end to end solution by leveraging Power BI, Cognitive Services, and Azure ML.
@@ -45,11 +45,9 @@ Cloud-Native Apps
 1.  [Working with Data in Power BI](./Student/Guides/hols/02-Dataflows.md)
 1.  [Working with Cognitive Services](./Student/Guides/hols/03-CognitiveServices.md)
 1.  [Building Machine Learning in Power BI](./Student/Guides/hols/04-PowerBIAutoML)
-1.  [Building Machine Learning in Azure Machine Learning](./Student/Guides/hols/05-AzureML)
-
-;;; I am going to break number 5 up into these 3.  That way we have 6 standard sections (about 1.5 days of content) everyone can do and 1 advanced if we take certan classes that way?  Cool?
 1.  [Building Machine Learning in Azure Machine Learning - Designer](./Student/Guides/hols/05-AML-Designer.md)
 1.  [Building Machine Learning in Azure Machine Learning - AutoML](./Student/Guides/hols/06-AML-AutoML.md)
-<br>**Advanced**<br>
+
+<br><br>**++ Optional Lab List ++**<br>
 1.  [Building Machine Learning in Azure Machine Learning - Notebooks](./Student/Guides/hols/07-AML-Notebooks.md)
 

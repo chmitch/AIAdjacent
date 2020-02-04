@@ -1,4 +1,4 @@
-# Welcome to AI Adjacent.
+# Welcome to AI Adjacent!
 
 This content is a seriouse of hands on labs designed to give you step-by-step instructions to implement artifical intelligence and machine learning in Azure and Power BI.  If you don't have much experience with these tools, don't worry the labs are designed to walk you through an appropriate progression of implementation.
 

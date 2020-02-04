@@ -1,8 +1,8 @@
-# Lab 5 - Building Machine Learning in Azure Machine Learning
+# Lab 7 - Building Machine Learning in Azure Machine Learning - Notebooks
 
 ## Prerequisities
 
-1. [Lab 4 - Building Machine Learning in Power BI](./04-PowerBIAutoML.md) should be done successfuly.
+1. [Lab 6 - Building Machine Learning in Azure Machine Learning - AutoML](./04-PowerBIAutoML.md) should be done successfuly.
 
 ## Introduction
 
