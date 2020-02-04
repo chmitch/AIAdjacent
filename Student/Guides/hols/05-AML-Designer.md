@@ -10,8 +10,9 @@ Adventure Works marketing team loves the insights they've been getting from the 
 
 ## Overview Steps
 
-A. Create a dataset with the SQL View Pull 
-
+A. Create a dataset with the SQL View Pull <br> 
+B. 
+![Workflow](/images/l05-i01)
 ## Exact Steps
 Step 1. Go to http://portal.azure.com (should we point them to .docs website for creating a Workspace?)
 
