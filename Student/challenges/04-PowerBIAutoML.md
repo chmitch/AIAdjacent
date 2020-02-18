@@ -13,9 +13,23 @@ The Adventure Works business users have loved all the additional insights they'v
 1.  In Power BI build one or more reports to highlight which customers are most likely to buy a bike.
 1.  Generate the model performance report so see metrics about the model created by Auto ML.
 
+
+## Basic Hackflow
+1. Edit the existing data flow and import additional entites for BikeBuyerTraining and ProspectiveBuyer from the data warenouse.
+1. Save and refesh the dataflow.
+1. Add a new machine learning model to the dataflow.
+1. Select BikeBuyerTraining as the data source and BikeBuyer as the target column to predict.
+1. Select 1 as the target value, and provide labels for the positive and negative test cases.
+1. Select all the provided columns to train (Note: we've pruned the dataset to avoid errors, but this is where you'd have an opportunity to exclude fields from the training)
+1. Move the slider to reduce the training time to 5 minutes (Note: the default is 60)
+1. Run the training
+1. When training completes you'll be able to generate a report to view the details of your model and see which fields had the most impact on the results.
+1. Now that you have a trained model, select apply model to score your prospective buyers, map the fields and execute the scoring.
+1. In Power BI desktop load the scored data and build reports.
+
 ## Hints
 
-1.  Have a closer look at the columns in Customer and Prospective Buyer.  Are there any differences that could be problematic?
+1.  Have a closer look at the columns in BikeBuyerTraining and Prospective Buyer.  What is different about these two tables?  Are there any differences that could be causing you problems scoring?
 
 
 ## Learning resources

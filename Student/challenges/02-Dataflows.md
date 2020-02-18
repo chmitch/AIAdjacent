@@ -22,6 +22,18 @@ It is important to note that Adventure Works IT team had originally built their 
 1.  A Power BI model which includes all business entities.
 1.  A report that helps illustrate sales by product and sales by geography that can be filtered / sliced by year.
 
+
+## Basic Hackflow
+1. Login to www.powerbi.com and create a new worksapce.
+1. In your workspace create a new "Dataflow"
+1. Enter connection details for the database you restored in Challenge 1
+1. Select the Products and Customers views, and the FactInternetSales and DimDate tables.
+1. Save and refresh the dataflow.
+1. Launch Power BI Desktop and start the "Get Data" process.
+1. Naviagite to the Power BI Dataflows data source.
+1. Select the objects created in step one.
+1. Build reports with the loaded data. 
+
 ## Hints
 
 1. There is more than one way to flatten data in Power BI.  Have you looked at the views in the database?
