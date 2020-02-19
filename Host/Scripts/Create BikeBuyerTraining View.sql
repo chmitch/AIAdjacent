@@ -10,7 +10,7 @@ SELECT  DATEDIFF(year, CAST(BirthDate as Datetime), GETDATE()) as Age,
         EnglishOccupation as Occupation,
         HouseOwnerFlag,
         CAST(NumberCarsOwned as integer) as NumberCarsOwned,
-        City
+        City,
         StateProvince,
         PostalCode,
         CASE WHEN BikeOrderCount IS NULL THEN 0 ELSE 1 END as BikeBuyer
