@@ -38,16 +38,3 @@ Cloud-Native Apps
 1.  [Working with Cognitive Services](./Student/Guides/challenges/03-CognitiveServices.md)
 1.  [Building Machine Learning in Power BI](./Student/Guides/challenges/04-PowerBIAutoML)
 1.  [Building Machine Learning in Azure Machine Learning](./Student/Guides/challenges/05-AzureML)
-
-## Hands on labs
-
-1.  [Setup](./Student/Guides/hols/01-Setup.md)
-1.  [Working with Data in Power BI](./Student/Guides/hols/02-Dataflows.md)
-1.  [Working with Cognitive Services](./Student/Guides/hols/03-CognitiveServices.md)
-1.  [Building Machine Learning in Power BI](./Student/Guides/hols/04-PowerBIAutoML)
-1.  [Building Machine Learning in Azure Machine Learning - Designer](./Student/Guides/hols/05-AML-Designer.md)
-1.  [Building Machine Learning in Azure Machine Learning - AutoML](./Student/Guides/hols/06-AML-AutoML.md)
-
-<br><br>**++ Optional Lab List ++**<br>
-1.  [Building Machine Learning in Azure Machine Learning - Notebooks](./Student/Guides/hols/07-AML-Notebooks.md)
-
