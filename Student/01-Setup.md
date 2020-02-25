@@ -70,5 +70,8 @@ In the Azure CLI, run the following series of commands to create and restore the
 | az sql db imort   | <https://docs.microsoft.com/en-us/cli/azure/sql/db?view=azure-cli-latest#az-sql-db-import> |
 | az sql server create  | <https://docs.microsoft.com/en-us/cli/azure/sql/server?view=azure-cli-latest#az-sql-server-create> |
 | az sql server firewall-rule create  | <https://docs.microsoft.com/en-us/cli/azure/sql/server/firewall-rule?view=azure-cli-latest#az-sql-server-firewall-rule-create> |
+| Create the new workspace in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-create-the-new-workspaces> |
+| Create Power BI Embedded Capacity in the Azrue Portal | <https://docs.microsoft.com/en-us/power-bi/developer/azure-pbie-create-capacity> |
+| Configure and manage capacities | <https://docs.microsoft.com/en-us/power-bi/service-admin-premium-manage> |
 
 [Next challenge (Working with Data in Power BI) >](./02-Dataflows.md)
