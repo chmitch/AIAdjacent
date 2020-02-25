@@ -35,5 +35,5 @@ In this hackshop, you will use a variety of Azure services and related products.
 1.  [Setup](./Student/01-Setup.md)
 1.  [Working with Data in Power BI](./Student/02-Dataflows.md)
 1.  [Working with Cognitive Services](./Student/03-CognitiveServices.md)
-1.  [Building Machine Learning in Power BI](./Student/04-PowerBIAutoML)
-1.  [Building Machine Learning in Azure Machine Learning](./Student/05-AzureML)
+1.  [Building Machine Learning in Power BI](./Student/04-PowerBIAutoML.md)
+1.  [Building Machine Learning in Azure Machine Learning](./Student/05-AzureML.md)
