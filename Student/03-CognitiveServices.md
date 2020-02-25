@@ -35,7 +35,7 @@ The data warehouse team has the request to add reviews information to the data w
 
 ## Hints
 
-*   TBD
+*   Technically these cognitive services can be run in any order, because the language detection is not a required input.  Does providing the language alter the results?
 
 
 ## Learning resources
@@ -43,7 +43,7 @@ The data warehouse team has the request to add reviews information to the data w
 |                                            |                                                                                                                                                       |
 | ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Description**                            |                                                                       **Links**                                                                       |
-| Use Cognitive Services in Power BI | < https://docs.microsoft.com/en-us/power-bi/service-cognitive-services> |
-
+| Use Cognitive Services in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-cognitive-services> |
+| Tutorial: Use Cognitive Services in Power BI | https://docs.microsoft.com/en-us/power-bi/service-tutorial-build-machine-learning-model |
 
 [Next challenge (Building Machine Learning in Power BI) >](./04-PowerBIAutoML.md)

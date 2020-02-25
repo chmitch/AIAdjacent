@@ -29,8 +29,7 @@ The Adventure Works business users have loved all the additional insights they'v
 
 ## Hints
 
-1.  Have a closer look at the columns in BikeBuyerTraining and Prospective Buyer.  What is different about these two tables?  Are there any differences that could be causing you problems scoring?
-
+1.  Have a closer look at the columns in BikeBuyerTraining and Prospective Buyer.  What is different about these two tables?  Are there any differences that could be preventing you from using your model?
 
 ## Learning resources
 
@@ -38,6 +37,8 @@ The Adventure Works business users have loved all the additional insights they'v
 | ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Description**                            |                                                                       **Links**                                                                       |
 | Automated Machine Learning in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated> |
+| Tutorial: Build a Machine Learning model in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-tutorial-build-machine-learning-model> |
+| Age Calculation in Power BI using Power Query | <https://radacad.com/age-calculation-in-power-bi-using-power-query> | 
 
 
 [Next challenge (Building Machine Learning in Azure Machine Learning) >](./05-AzureML.md)

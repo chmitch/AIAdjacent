@@ -36,7 +36,7 @@ It is important to note that Adventure Works IT team had originally built their 
 
 ## Hints
 
-1. There is more than one way to flatten data in Power BI.  Have you looked at the views in the database?
+1. Is there anything interesting about the data types assigned to some fields?  Should you do anything about that?
 
 ## Learning resources
 

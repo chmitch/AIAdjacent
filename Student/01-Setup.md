@@ -27,7 +27,7 @@ The first challenge is to setup an environment that will help you build the end 
 
 ## Alternate Hackflow
 
-In the Azure integrated CLI, run the following series of commands to create and restore the AdventureWorksDW.  The series of steps has placeholders for things like Resource Group and Server Name.  It's important to replace the same values in each location.  Also, we've preset the admin login and password in these scripts, but feel free to override them and use different values if you like.   The items that cannot be changed are the storage key and storage uri.
+In the Azure CLI, run the following series of commands to create and restore the AdventureWorksDW.  <em>Note:  we intentionally chose the Azure CLI because it's integrated into the Azure portal, and therefore requires no installation to use.</em>  The series of steps has placeholders for things like Resource Group and Server Name.  It's important to replace the same values in each location.  Also, we've preset the admin login and password in these scripts, but feel free to override them and use different values if you like.   The items that cannot be changed are the storage key and storage uri.
 
 1. Create a new resource group:
     ```
@@ -52,9 +52,23 @@ In the Azure integrated CLI, run the following series of commands to create and 
 
     ```
 
+## Hints
+
+1. If you're having trouble accessing your database, try checking the firewall configuration.
+
 ## Success criteria
 
 1.  A restored version of the Adventure Works Data Warehouse.
 1.  A Power BI application workspace with assigned premium capacity.
+
+## Learning resources
+
+|                                            |                                                                                                                                                       |
+| ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Description**                            |                                                                       **Links**                                                                       |
+| az sql db create  | <https://docs.microsoft.com/en-us/cli/azure/sql/db?view=azure-cli-latest#az-sql-db-create> |
+| az sql db imort   | <https://docs.microsoft.com/en-us/cli/azure/sql/db?view=azure-cli-latest#az-sql-db-import> |
+| az sql server create  | <https://docs.microsoft.com/en-us/cli/azure/sql/server?view=azure-cli-latest#az-sql-server-create> |
+| az sql server firewall-rule create  | <https://docs.microsoft.com/en-us/cli/azure/sql/server/firewall-rule?view=azure-cli-latest#az-sql-server-firewall-rule-create> |
 
 [Next challenge (Working with Data in Power BI) >](./02-Dataflows.md)
