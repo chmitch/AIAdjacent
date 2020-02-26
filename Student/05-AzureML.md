@@ -13,6 +13,18 @@ Adventure Works marketing team loves the insights they've been getting from the 
 1.  Demonstrate usage of the API.
 1.  Create a new dataflow in Power BI to leverage the published API.
 
+## Basic Hackflow
+1. Create an Azure Machine Learning Workspace in your Azure Subscription (Enusre it is "Enterprise")
+2. Go to "https://ml.azure.com" to launch the new "Studio" experince 
+3. Create a "Dataset" from a new "Datastore" by connecting it to the SQLServer in earlier labs and running "select * from 
+
+
+## Hints
+
+1.  Have a closer look at the columns in BikeBuyerTraining and Prospective Buyer.  What is different about these two tables?  Are there any differences that could be preventing you from using your model?
+
+## Learning resources
+
 ## Hints
 1.  If you don't want to write code to call the REST API, Postman is a great tool. (http://getpostman.com)
 
