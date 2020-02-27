@@ -30,7 +30,7 @@ In this hackshop, you will use a variety of Azure services and related products.
 *   Power BI Desktop, Embedded Capacity, etc.
 *   Azure Machine Learning
 
-## Challenges
+## Core Challenges
 
 1.  [Setup](./Student/01-Setup.md)
 1.  [Working with Data in Power BI](./Student/02-Dataflows.md)
@@ -38,5 +38,7 @@ In this hackshop, you will use a variety of Azure services and related products.
 1.  [Building Machine Learning in Power BI](./Student/04-PowerBIAutoML.md)
 1.  [Building Models in Azure Machine Learning Designer](./Student/05-AMLDesigner.md)
 1.  [Building Models in Azure Machine Learning AutoML](./Student/06-AMLAutoML.md)
+
+## Post Core, Optional Challenges
 1.  [Building Models in Azure Machine Learning Notebooks](./Student/07-AMLNotebooks.md) 
-    1.  **(Python Required, Optional)**
+    1.  (Some Python Knowledge Required)
