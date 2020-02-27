@@ -15,9 +15,26 @@ Adventure Works marketing team loves the insights they've been getting from the 
 
 ## Basic Hackflow
 1. Create an Azure Machine Learning Workspace in your Azure Subscription (Ensure it is "Enterprise")
-1. Go to "https://ml.azure.com" to launch the new "Studio" experince 
+1. Go to "https://ml.azure.com" to launch the new "Studio" experince, ensure you are in the right "workspace"
 1. Create a "Dataset" from a new "Datastore" by connecting it to the SQLServer in earlier labs and running "select * from BikeBuyerTraining"
-1. 
+1. Create a new "Designer" Training Pipeline
+   1. Add in the dataset
+   2. Add "Edit Metadata" and create categorical features
+   3. Add "Split Data"
+   4. Add "Two Class Logistic Regression" 
+   5. Add "Train Model"
+   6. Add "Score Model"
+   7. Add "Evaluate Model"
+   8. Run
+      1. Create Training Compute
+1. Examine Model and output of each "pill"
+1. Create "Inferencing Pipeline"
+1. "Publish" to Endpoint
+   1. Create AKS Cluster
+1. Examine in "Endpoints"
+1. Use Swagger to create Postman calls
+1. Test Postman calls for service health and inference output
+1. Add into Power BI 
 
 
 ## Hints

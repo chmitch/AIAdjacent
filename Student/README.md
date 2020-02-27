@@ -44,4 +44,4 @@ In this hackshop, you will use a variety of Azure services and related products.
 
 ## Post Core, Optional Challenges
 1.  [Building Models in Azure Machine Learning Notebooks](./Student/07-AMLNotebooks.md) 
-    1.  (Some Python Knowledge Required)
+    1.  Some Python Knowledge Required
