@@ -1,5 +1,4 @@
 # Challenge 5 - Building Machine Learning in Azure Machine Learning
-# OLD DO NOT USER
 
 ## Prerequisities
 
