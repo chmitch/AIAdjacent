@@ -2,7 +2,7 @@
 
 ## Prerequisities
 
-1. [Challenge 4 - Building Machine Learning in Power BI](./04-PowerBIAutoML.md) should be done successfuly.
+1. [Challenge 4 - Building Machine Learning in Power BI](./04-PowerBIAutoML.md) should be done successfully.
 
 ## Introduction
 

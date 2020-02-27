@@ -2,7 +2,7 @@
 
 ## Prerequisities
 
-1. [Challenge 6 - Building Models in Azure Machine Learning AutoML](./06-AMLAutoML.md) should be done successfuly.
+1. [Challenge 6 - Building Models in Azure Machine Learning AutoML](./06-AMLAutoML.md) should be done successfully.
 
 ## Introduction
 

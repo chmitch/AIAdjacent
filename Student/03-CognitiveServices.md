@@ -2,7 +2,7 @@
 
 ## Prerequisities
 
-1. [Challenge 2 - Working with Data in Power BI](./02-Dataflows.md) should be done successfuly.
+1. [Challenge 2 - Working with Data in Power BI](./02-Dataflows.md) should be done successfully.
 
 
 ## Introduction
