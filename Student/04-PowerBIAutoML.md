@@ -41,4 +41,4 @@ The Adventure Works business users have loved all the additional insights they'v
 | Age Calculation in Power BI using Power Query | <https://radacad.com/age-calculation-in-power-bi-using-power-query> | 
 
 
-[Next challenge (Building Models in Azure Machine Learning - Designer) >](./05-AMLDesigner.md)
+[Next challenge (Building Models in Azure Machine Learning AutoML) >](./05-AMLAutoML.md)

@@ -39,9 +39,9 @@ In this hackshop, you will use a variety of Azure services and related products.
 1.  [Working with Data in Power BI](./02-Dataflows.md)
 1.  [Working with Cognitive Services](./03-CognitiveServices.md)
 1.  [Building Machine Learning in Power BI](./04-PowerBIAutoML.md)
-1.  [Building Models in Azure Machine Learning Designer](./Student/05-AMLDesigner.md)
-1.  [Building Models in Azure Machine Learning AutoML](./Student/06-AMLAutoML.md)
+1.  [Building Models in Azure Machine Learning Designer](./05-AMLDesigner.md)
+1.  [Building Models in Azure Machine Learning AutoML](./06-AMLAutoML.md)
 
 ## Post Core, Optional Challenges
-1.  [Building Models in Azure Machine Learning Notebooks](./Student/07-AMLNotebooks.md) 
+1.  [Building Models in Azure Machine Learning Notebooks](./07-AMLNotebooks.md) 
     1.  Some Python Knowledge Required

@@ -2,7 +2,7 @@
 
 ## Prerequisities
 
-1. [Challenge 4 - Building Machine Learning in Power BI](./04-PowerBIAutoML.md) should be done successfuly.
+1. [Challenge 5 -Building Models in Azure Machine Learning - Designer](./05-AMLDesigner.md) should be done successfully.
 
 ## Introduction
 
@@ -39,3 +39,4 @@ Adventure Works marketing team loves the insights they've been getting from the 
 | Azure Machine Learning integration in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
 
 
+[Optional Challenge (Building Models in Azure Machine Learning Notebooks) >](./07-AMLNotebooks.md)
