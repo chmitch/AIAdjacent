@@ -11,8 +11,8 @@ The following is expected timing for a standard delivery.
 |                                            |                                                                                                                                                       |
 | ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Topic** |  **Duration**  |
-| Presentation 1:  Welcome and Introduction  | 15 mins |
-| Challenge 1: Environmnet Setup | 30 mins|
+| Presentation 1:  Welcome and Introduction  | 30 mins |
+| Challenge 1: Enviroment Setup | 30 mins|
 | Presentation 2: Intro to Power BI dataflows | 30 mins|
 | Challenge 2: Working with Data in Power BI | 45 mins |
 | Presentation 3: Intro to Cognitive Services | 30 mins |
@@ -20,9 +20,9 @@ The following is expected timing for a standard delivery.
 | Presentation 4: Machine Learning with Power BI | 30 mins |
 | Challenge 4: Building Machine Learning in Power BI | 45 mins |
 | Presentation 5: Azure Machine Learning Studio | 30 mins |
-| Challenge 5: Building Models in Azure Machine Learning Designer | 45 mins |
-| Challenge 6: Building Machine Learning in Azure Machine Learning | 45 mins |
-| (Optional) Challenge 7: Building Machine Learning in Azure Machine Learning | 45 mins |
+| Challenge 5: Building Models in Azure Machine Learning Designer | 60 mins |
+| Challenge 6: Building Machine Learning in Azure Machine Learning Auto ML| 45 mins |
+| (Optional) Challenge 7: Building Machine Learning in Azure Machine Learning Notebooks | 45 mins |
 
 
 ## Content
