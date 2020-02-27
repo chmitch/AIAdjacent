@@ -33,9 +33,10 @@ Adventure Works marketing team loves the insights they've been getting from the 
 5. "Publish" to Endpoint
    1. Create AKS Cluster
 6. Examine in "Endpoints"
-7. Use Swagger to create Postman calls
+7. Use the Swagger api to create Postman calls
+   1. Use "Import from Link"
 8. Test Postman calls for service health and inference output
-9.  Add into Power BI 
+9. Add into Power BI 
 
 
 ## Hints

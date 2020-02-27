@@ -6,7 +6,9 @@
 
 ## Introduction
 
-Now that we have completed all the "Core" labs, we can extend the capabilities of your practice by introducing how to create/test/run code-first notebooks that will give you almost infinate options to model creation.
+# Much of this is TBD based on Anthony's work
+
+Now that we have completed all the "Core" Challenges, we can extend the capabilities of your practice by introducing how to create/test/run code-first notebooks that will give you almost infinate options to model creation.
 
 ## Success Criteria
 1.  A published BikeBuyer model endpoint hosted in Azure ML using Notebooks.
