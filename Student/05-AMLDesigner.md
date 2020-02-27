@@ -16,8 +16,9 @@ Adventure Works marketing team loves the insights they've been getting from the 
 ## Basic Hackflow
 1. Create an Azure Machine Learning Workspace in your Azure Subscription (Ensure it is "Enterprise")
 1. Go to "https://ml.azure.com" to launch the new "Studio" experince, ensure you are in the right "workspace"
-1. Create a "Dataset" from a new "Datastore" by connecting it to the SQLServer in earlier labs and running "select * from BikeBuyerTraining"
-1. Create a new "Designer" Training Pipeline
+1. Create a "Dataset" from a new "Datastore" by connecting it to the SQLServer in earlier labs and running 
+   1. Use "Select * from BikeBuyerTraining"
+2. Create a new "Designer" Training Pipeline
    1. Add in the dataset
    2. Add "Edit Metadata" and create categorical features
    3. Add "Split Data"
@@ -25,16 +26,17 @@ Adventure Works marketing team loves the insights they've been getting from the 
    5. Add "Train Model"
    6. Add "Score Model"
    7. Add "Evaluate Model"
-   8. Run
+   8. Run the trained model
       1. Create Training Compute
-1. Examine Model and output of each "pill"
-1. Create "Inferencing Pipeline"
-1. "Publish" to Endpoint
+3. Examine Model and output of each "pill"
+4. Create "Inferencing Pipeline"
+5. "Publish" to Endpoint
    1. Create AKS Cluster
-1. Examine in "Endpoints"
-1. Use Swagger to create Postman calls
-1. Test Postman calls for service health and inference output
-1. Add into Power BI 
+6. Examine in "Endpoints"
+7. Use the Swagger api to create Postman calls
+   1. Use "Import from Link"
+8. Test Postman calls for service health and inference output
+9. Add into Power BI 
 
 
 ## Hints
@@ -55,4 +57,4 @@ Adventure Works marketing team loves the insights they've been getting from the 
 | Create, explore, and deploy automated machine learning experiments with Azure Machine Learning studio                    |        <https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-portal-experiments>         |
 | Azure Machine Learning integration in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
 
-[Next challenge (Building Machine Learning Models in Azure Machine Learning - AutoML) >](./06-AMLAutoML.md)
+[Next challenge (Building Machine Learning Models in Azure Machine Learning AutoML) >](./06-AMLAutoML.md)
