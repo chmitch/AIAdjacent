@@ -17,22 +17,22 @@ It is important to note that Adventure Works IT team had originally built their 
 
 
 ## Success criteria
-1.  A data flow built on AdventureWorksDW that includes the business entities in the requirements, in particular both Product and Customer should be flattened.
-1.  A configured refresh schedule for the data flow.
-1.  A Power BI model which includes all business entities.
-1.  A report that helps illustrate sales by product and sales by geography that can be filtered / sliced by year.
+1.  A data flow built on AdventureWorksDW that includes the business entities in the requirements
+1.  A configured refresh schedule for the data flow
+1.  A Power BI model which includes all business entities
+1.  A report that helps illustrate sales by product and sales by geography that can be filtered / sliced by year
 
 
 ## Basic Hackflow
-1. Login to www.powerbi.com and create a new worksapce.
+1. Login to www.powerbi.com and create a new workspace
 1. In your workspace create a new "Dataflow"
 1. Enter connection details for the database you restored in Challenge 1
-1. Select the Products and Customers views, and the FactInternetSales and DimDate tables.
-1. Save and refresh the dataflow.
-1. Launch Power BI Desktop and start the "Get Data" process.
-1. Naviagite to the Power BI Dataflows data source.
-1. Select the objects created in step one.
-1. Build reports with the loaded data. 
+1. Select the Products and Customers views, and the FactInternetSales and DimDate tables
+1. Save and refresh the dataflow
+1. Launch Power BI Desktop and start the "Get Data" process
+1. Naviagite to the Power BI Dataflows data source
+1. Select the objects created in step one
+1. Build reports with the loaded data
 
 ## Hints
 
@@ -44,6 +44,6 @@ It is important to note that Adventure Works IT team had originally built their 
 | ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Description**                            |                                                                       **Links**                                                                       |
 | Self-service data prep with dataflows | <https://docs.microsoft.com/en-us/power-bi/service-dataflows-overview> |
-| Create and use dataflows                    |                                <https://docs.microsoft.com/en-us/power-bi/service-dataflows-create-use>                                |
+| Create and use dataflows                    | <https://docs.microsoft.com/en-us/power-bi/service-dataflows-create-use>                                |
 
 [Next challenge (Working with Cognitive Services) >](./03-CognitiveServices.md)

@@ -4,6 +4,27 @@ This workshop is designed to give participants familiar with Power BI and Busine
 
 The format we're following for this is similar to other initiatives like OpenHack and What the Hack.  The material is intended to be light on presentations and heavy on hands on experience.  The participants will spend the majority of their time working on challenges.  The challenges are not designed to be hands on labs, but rather a business problem with success criteria.  The focus here is encouraging the participants to think about what they're doing and not just blindly following steps in a lab.
 
+## Timings
+
+The following is expected timing for a standard delivery.
+
+|                                            |                                                                                                                                                       |
+| ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Topic** |  **Duration**  |
+| Presentation 1:  Welcome and Introduction  | 15 mins |
+| Challenge 1: Environmnet Setup | 30 mins|
+| Presentation 2: Intro to Power BI dataflows | 30 mins|
+| Challenge 2: Working with Data in Power BI | 45 mins |
+| Presentation 3: Intro to Cognitive Services | 30 mins |
+| Challenge 3: Working with Cognitive Services | 45 mins |
+| Presentation 4: Machine Learning with Power BI | 30 mins |
+| Challenge 4: Building Machine Learning in Power BI | 45 mins |
+| Presentation 5: Azure Machine Learning Studio | 30 mins |
+| Challenge 5: Building Models in Azure Machine Learning Designer | 45 mins |
+| Challenge 6: Building Machine Learning in Azure Machine Learning | 45 mins |
+| (Optional) Challenge 7: Building Machine Learning in Azure Machine Learning | 45 mins |
+
+
 ## Content
 
 In order to deliver this hackshop there is a variety of supporting content.   This content is indexed below.
@@ -18,7 +39,7 @@ In order to deliver this hackshop there is a variety of supporting content.   Th
 1. [Intro to Power BI dataflows](./Presentations/P02%20-%20Intro%20to%20Power%20BI%20dataflows.pptx) - AI and ML features in Power BI are activated via dataflows.  This deck introduces dataflows concepts.  (Note: this presentation is intended to be delivered in advance of Challenge 2.)
 1. [Intro to Cognitive Services](./Presentations/P03%20-%20Intro%20to%20Cognitive%20Services.pptx) - Power BI makes it simple to leverage some Azure Cognitive services.  This deck introduces Azure Cognitive Services in general and discusses the few cognitive services available in Power BI Dataflows.  (Note: this presentation is intended to be delivered in advance of Challenge 3.)
 1. [Machine Learning with Power BI](./Presentations/P04%20-%20Machine%20Learning%20with%20Power%20BI.pptx) - Power BI Auto ML makes it easy to train models with data in your dataflow.  This presentation introduces core machine learning concepts and workflow.  (Note: this presentation is intended to be delivered in advance of Challenge 4.)
-1. [Azure Machine Learning Stuido](./Presentations/P05%20-%20Azure%20Machine%20Learning%20Studio.pptx) - When you hit the limits of the native capabilities of Power BI, you'll start building Machine Learning and Artifical Intelligence solutions in Azure Machine Learning.  The presentation introducse core concepts and capabilities in Azure Machine Learnging (Note: this presentation is intended to be delivered in advance of Challenges 5 - 7.)
+1. [Azure Machine Learning Studio](./Presentations/P05%20-%20Azure%20Machine%20Learning%20Studio.pptx) - When you hit the limits of the native capabilities of Power BI, you'll start building Machine Learning and Artifical Intelligence solutions in Azure Machine Learning.  The presentation introducse core concepts and capabilities in Azure Machine Learnging (Note: this presentation is intended to be delivered in advance of Challenges 5 - 7.)
 
 ### Scripts
 
@@ -33,7 +54,7 @@ These are the supplemental script files that go beyond the standard AdventureWor
 
 These are  our preferred method as it uses the bacpac that is convenitently stored in azure blob storage already.  These methods are  spelled out in detail in [Challenge 1](././Student/01-Setup.md).
 
-### Database Setup Option 2
+### Database Setup Option 3
 
 If you're a masochist and want to bypass the setup process you can actually build the Adventure Works database from scratch using the data in the "Sourcefiles" direcory.  This path includes all the source csv files and scripts to build the database.  The basic steps are as follows.
 
