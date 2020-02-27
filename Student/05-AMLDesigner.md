@@ -55,4 +55,4 @@ Adventure Works marketing team loves the insights they've been getting from the 
 | Create, explore, and deploy automated machine learning experiments with Azure Machine Learning studio                    |        <https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-portal-experiments>         |
 | Azure Machine Learning integration in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
 
-[Next challenge (Building Machine Learning Models in Azure Machine Learning - Designer) >](./05-AMLDesigner.md)
+[Next challenge (Building Machine Learning Models in Azure Machine Learning - AutoML) >](./06-AMLAutoML.md)
