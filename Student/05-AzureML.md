@@ -15,8 +15,9 @@ Adventure Works marketing team loves the insights they've been getting from the 
 
 ## Basic Hackflow
 1. Create an Azure Machine Learning Workspace in your Azure Subscription (Enusre it is "Enterprise")
-2. Go to "https://ml.azure.com" to launch the new "Studio" experince 
-3. Create a "Dataset" from a new "Datastore" by connecting it to the SQLServer in earlier labs and running "select * from 
+1. Go to "https://ml.azure.com" to launch the new "Studio" experince 
+1. Create a "Dataset" from a new "Datastore" by connecting it to the SQLServer in earlier labs and running "select * from BikeBuyerTraining"
+1. 
 
 
 ## Hints
