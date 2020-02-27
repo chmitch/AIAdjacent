@@ -18,7 +18,7 @@ In order to deliver this hackshop there is a variety of supporting content.   Th
 1. [Intro to Power BI dataflows](./Presentations/P02%20-%20Intro%20to%20Power%20BI%20dataflows.pptx) - AI and ML features in Power BI are activated via dataflows.  This deck introduces dataflows concepts.  (Note: this presentation is intended to be delivered in advance of Challenge 2.)
 1. [Intro to Cognitive Services](./Presentations/P03%20-%20Intro%20to%20Cognitive%20Services.pptx) - Power BI makes it simple to leverage some Azure Cognitive services.  This deck introduces Azure Cognitive Services in general and discusses the few cognitive services available in Power BI Dataflows.  (Note: this presentation is intended to be delivered in advance of Challenge 3.)
 1. [Machine Learning with Power BI](./Presentations/P04%20-%20Machine%20Learning%20with%20Power%20BI.pptx) - Power BI Auto ML makes it easy to train models with data in your dataflow.  This presentation introduces core machine learning concepts and workflow.  (Note: this presentation is intended to be delivered in advance of Challenge 4.)
-1. [??](./Presentations/P05-??.pptx) - ??  (Note: this presentation is intended to be delivered in advance of Challenge 5.)
+1. [Azure Machine Learning Stuido](./Presentations/P05%20-%20Azure%20Machine%20Learning%20Studio.pptx) - When you hit the limits of the native capabilities of Power BI, you'll start building Machine Learning and Artifical Intelligence solutions in Azure Machine Learning.  The presentation introducse core concepts and capabilities in Azure Machine Learnging (Note: this presentation is intended to be delivered in advance of Challenges 5 - 7.)
 
 ### Scripts
 
