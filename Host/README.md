@@ -72,3 +72,14 @@ If you're a masochist and want to bypass the setup process you can actually buil
 1.  You must execute the create script in SQL-CMD mode.
 
 The "Scripts" directoty contains additional content that is held separate as they are departures from the "stock" AdventureWorksDW schema.
+
+
+### Ideas for other Challenges (Punch List)
+
+This area is for us to keep a running list of things we would like to incorporate into the Core or Optional challenges.  Please contact Chris Mitchell (repo owner) if you would like to pick one of these to work on, or want to add a new one yourself.  Help and collaboration are always welcome.
+
+1. An adjunct lab to AML Designer to add in normalization, comparing other algorithms, etc. to hit a higher accuracy
+2. An adjunct lab to AML AutoML to add in timeseries forecasting
+3. An optional lab to AML Notebooks for time series forecasting
+4. Pick an AML tool to dive into Model Transparency and Interpretability 
+   
