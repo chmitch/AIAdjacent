@@ -28,15 +28,17 @@ Adventure Works marketing team loves the insights they've been getting from the 
    7. Add "Evaluate Model"
    8. Run the trained model
       1. Create Training Compute
-3. Examine Model and output of each "pill"
+3. Examine Model and output of each "Pill"
 4. Create "Inferencing Pipeline"
 5. "Publish" to Endpoint
    1. Create AKS Cluster
 6. Examine in "Endpoints"
 7. Use the Swagger api to create Postman calls
    1. Use "Import from Link"
-8. Test Postman calls for service health and inference output
-9. Add into Power BI 
+8. Test Postman calls for service health
+9. Test Postman calls for inference output
+10. Add into Power BI dataflow 
+   1.  "AI Insights" 
 
 
 ## Hints
@@ -54,7 +56,8 @@ Adventure Works marketing team loves the insights they've been getting from the 
 |                                            |                                                                                                                                                       |
 | ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Description**                            |                                                                       **Links**                                                                       |
-| Create, explore, and deploy automated machine learning experiments with Azure Machine Learning studio                    |        <https://docs.microsoft.com/en-us/azure/machine-learning/how-to-create-portal-experiments>         |
-| Azure Machine Learning integration in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
+| Train a Model Azure Machine Learning Designer                   |        <https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score>         |
+| Azure Machine Learning integration in Power BI | 
+<https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
 
 [Next challenge (Building Machine Learning Models in Azure Machine Learning AutoML) >](./06-AMLAutoML.md)
