@@ -74,4 +74,6 @@ This area is for us to keep a running list of things we would like to incorporat
 2. An adjunct lab to AML AutoML to add in timeseries forecasting
 3. An optional lab to AML Notebooks for time series forecasting
 4. Pick an AML tool to dive into Model Transparency and Interpretability 
+5. Create a Data Labeling project to label bikes or bike parts, show the team aspect
+6. 
    
