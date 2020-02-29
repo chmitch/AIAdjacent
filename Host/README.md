@@ -4,7 +4,7 @@ This workshop is designed to give participants familiar with Power BI and Busine
 
 The format we're following for this is similar to other initiatives like OpenHack and What the Hack.  The material is intended to be light on presentations and heavy on hands on experience.  The participants will spend the majority of their time working on challenges.  The challenges are not designed to be hands on labs, but rather a business problem with success criteria.  The focus here is encouraging the participants to think about what they're doing and not just blindly following steps in a lab.
 
-## Timings
+## Expected / Suggested Timings
 
 The following is expected timing for a standard delivery.
 
@@ -24,6 +24,14 @@ The following is expected timing for a standard delivery.
 | Challenge 6: Building Machine Learning in Azure Machine Learning Auto ML| 45 mins |
 | (Optional) Challenge 7: Building Machine Learning in Azure Machine Learning Notebooks | 45 mins |
 
+## Potential variations for delivery
+
+As previously mentioned, this content is geared at trying to strike a balance between something open ended and something totally scripted.  As such this content does assume a basic level of proficency and familiarity with tools like Power BI, but in the interest of keeping attendees close to the correct path we've included a "Hackflow Steps" section in each challenge.  This is intened not to show the users how to complete the activities, but rather inform them of the general order of tasks required to complete the challenge.   
+
+We realize this may not be ideal for every audience; therefore we see two potential variations of this delivery:
+
+1. For a more advanced audience - you could remove the "Hackflow Steps" section from the challenges.  This would then force the participants to potentially stumble more and read more documentation/tutorials to complete the challenges.  This would push the workshop to more of a "Hackfest" style of activity.
+1. For a more novice audience - you could supplement the "Hackflow Steps" with more details and screenshots, to force appropraite implementations.  This would effectively convert the content to more of a "Hands on Lab" style of activity.
 
 ## Content
 
