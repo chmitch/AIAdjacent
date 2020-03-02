@@ -22,7 +22,7 @@ Adventure Works marketing team loves the insights they've been getting from the 
    1. Add in the dataset
    2. Add "Edit Metadata" and create categorical features
    3. Add "Split Data"
-   4. Add "Two Class Logistic Regression" 
+   4. Add "Two Class Logistic Regression".
    5. Add "Train Model"
    6. Add "Score Model"
    7. Add "Evaluate Model"
