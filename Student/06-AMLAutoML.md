@@ -15,8 +15,11 @@ Now that we have created an AML Designer based model and deployed that to an end
 
 ## Basic Hackflow
 1. Go to "https://ml.azure.com" to launch the new "Studio" experince 
-2. Create an AutoML Service
-3. 
+1. Create an AutoML Service
+1. Publish the "Best Model" to an Endpoint
+    Try one with "No Authentication", "Token Authentication" and "Key Authentication" to see the differneces in the swagger files
+1. Test the Endpoint in Postman
+1. Test in a Power BI Dataflow
 
 ## Hints
 

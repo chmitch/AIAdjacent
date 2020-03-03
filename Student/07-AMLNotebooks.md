@@ -8,7 +8,7 @@
 
 # Much of this is TBD based on Anthony's work
 
-Now that we have completed all the "Core" Challenges, we can extend the capabilities of your practice by introducing how to create/test/run code-first notebooks that will give you almost infinate options to model creation.
+Now that we have completed all the "Core" Challenges, we can extend the capabilities of your practice by introducing how to create/test/run code-first notebooks that will give you almost infinite options to model creation.
 
 ## Success Criteria
 1.  A published BikeBuyer model endpoint hosted in Azure ML using Notebooks.
@@ -17,8 +17,11 @@ Now that we have completed all the "Core" Challenges, we can extend the capabili
 
 ## Basic Hackflow
 1. Go to "https://ml.azure.com" to launch the new "Studio" experince 
-2. Create a new notebook
-3. 
+1. Create a new Notebook
+1. Test the Notebook
+1. Deploy the Notebook to an Endpoint
+1. Test the Notebook with Postman
+1. Use inside a Power BI dataflow
 
 
 ## Hints
