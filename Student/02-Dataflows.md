@@ -28,6 +28,7 @@ It is important to note that Adventure Works IT team had originally built their 
 1. In your workspace create a new "Dataflow"
 1. Enter connection details for the database you restored in Challenge 1
 1. Select the Products and Customers views, and the FactInternetSales and DimDate tables
+1. Select Transform data
 1. Save and refresh the dataflow
 1. Launch Power BI Desktop and start the "Get Data" process
 1. Naviagite to the Power BI Dataflows data source
@@ -36,7 +37,11 @@ It is important to note that Adventure Works IT team had originally built their 
 
 ## Hints
 
+1. You may have to sign up for a 60 day trial of Power BI Pro if you don't have a Power BI Pro license
+1. If the database was provisioned in advance for you, you can find the database username and password in Challenge 1 scrips for "az sql db create" the value after the "-u" and "-p"
 1. Is there anything interesting about the data types assigned to some fields?  Should you do anything about that?
+1. If you're having issues seeing the dataflow contents you may need to clear your Power BI Dataflow Credentials from Power BI Desktop's credential cache
+
 
 ## Learning resources
 

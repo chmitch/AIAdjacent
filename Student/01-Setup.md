@@ -67,7 +67,7 @@ In the Azure CLI, run the following series of commands to create and restore the
 | ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Description**                            |                                                                       **Links**                                                                       |
 | az sql db create  | <https://docs.microsoft.com/en-us/cli/azure/sql/db?view=azure-cli-latest#az-sql-db-create> |
-| az sql db imort   | <https://docs.microsoft.com/en-us/cli/azure/sql/db?view=azure-cli-latest#az-sql-db-import> |
+| az sql db import   | <https://docs.microsoft.com/en-us/cli/azure/sql/db?view=azure-cli-latest#az-sql-db-import> |
 | az sql server create  | <https://docs.microsoft.com/en-us/cli/azure/sql/server?view=azure-cli-latest#az-sql-server-create> |
 | az sql server firewall-rule create  | <https://docs.microsoft.com/en-us/cli/azure/sql/server/firewall-rule?view=azure-cli-latest#az-sql-server-firewall-rule-create> |
 | Create the new workspace in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-create-the-new-workspaces> |
