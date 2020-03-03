@@ -56,7 +56,9 @@ Adventure Works marketing team loves the insights they've been getting from the 
 |                                            |                                                                                                                                                       |
 | ------------------------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Description**                            |                                                                       **Links**                                                                       |
-| Train a Model Azure Machine Learning Designer                   |        <https://docs.microsoft.com/en-us/azure/machine-learning/tutorial-designer-automobile-price-train-score>         |
-| Azure Machine Learning integration in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
+| Automated Machine Learning in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-automated> |
+| Tutorial: Build a Machine Learning model in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-tutorial-build-machine-learning-model> |
+
+
 
 [Next challenge (Building Machine Learning Models in Azure Machine Learning AutoML) >](./06-AMLAutoML.md)
