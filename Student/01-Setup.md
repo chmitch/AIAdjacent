@@ -1,6 +1,6 @@
 # Challenge 1 - Setup
 
-## Prerequisities
+## Prerequisites
 
 1. Your laptop: Windows (VM or Parallels is fine, sorry MacOS or Linux users, Power BI Desktop only runs on Windows).
 1. Your Azure Subscription
@@ -20,9 +20,9 @@ The first challenge is to setup an environment that will help you build the end 
 
 1. Create a new blob storage account with a new container 
 1. A backup of the AdventureWorksDW has been provided for you in the following location.  Download the file and upload it to your newly created blob container.  https://cgmaiadjacent.blob.core.windows.net/backup/AdventureWorksDW.bacpac  
-1. Create an Azure SQL Database server in the Azure Portal.  (Note:  Make sure you setup the databse to allow access from other Azure services.)
+1. Create an Azure SQL Database server in the Azure Portal.  (Note:  Make sure you setup the database to allow access from other Azure services.)
 1. Import the AdventureWorksDW database from the blob where you uploaded the .bacpac file
-1.  In the Azure Portal create anew Power BI Embedded Capacity of size A2
+1.  In the Azure Portal create a new Power BI Embedded Capacity of size A2
 1.  Login to PowerBI.com and create a new Application Workspace, and assign the created Power BI Embedded capacity to the workspace.  (Note:  It is important to login to Power BI with the same user that is set as the admin on the Power BI Embedded capacity
 
 ## Alternate Hackflow
@@ -59,7 +59,7 @@ In the Azure CLI, run the following series of commands to create and restore the
 ## Success criteria
 
 1.  A restored version of the Adventure Works Data Warehouse
-1.  A Power BI application workspace with assigned premium capacity(Note:  This is the most expensive resoruce we use in this event.  It's a good idea to pause the capacity when you're not using it.)
+1.  A Power BI application workspace with assigned premium capacity(Note:  This is the most expensive resource we use in this event.  It's a good idea to pause the capacity when you're not using it.)
 
 ## Learning resources
 

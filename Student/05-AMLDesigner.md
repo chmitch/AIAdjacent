@@ -1,6 +1,6 @@
 # Challenge 5 - Building Models in Azure Machine Learning Designer
 
-## Prerequisities
+## Prerequisites
 
 1. [Challenge 4 - Building Machine Learning in Power BI](./04-PowerBIAutoML.md) should be done successfully.
 

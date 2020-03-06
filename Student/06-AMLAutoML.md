@@ -1,6 +1,6 @@
 # Challenge 6 - Building Models in Azure Machine Learning AutoML
 
-## Prerequisities
+## Prerequisites
 
 1. [Challenge 5 -Building Models in Azure Machine Learning Designer](./05-AMLDesigner.md) should be done successfully.
 
@@ -14,10 +14,10 @@ Now that we have created an AML Designer based model and deployed that to an end
 1.  Create a new dataflow in Power BI to leverage the published API.
 
 ## Basic Hackflow
-1. Go to "https://ml.azure.com" to launch the new "Studio" experince 
+1. Go to "https://ml.azure.com" to launch the new "Studio" experience 
 1. Create an AutoML Service
 1. Publish the "Best Model" to an Endpoint
-    Try one with "No Authentication", "Token Authentication" and "Key Authentication" to see the differneces in the swagger files
+    Try one with "No Authentication", "Token Authentication" and "Key Authentication" to see the differences in the swagger files
 1. Test the Endpoint in Postman
 1. Test in a Power BI Dataflow
 

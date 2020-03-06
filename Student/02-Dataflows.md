@@ -1,6 +1,6 @@
 # Challenge 2 - Working with Data in Power BI
 
-## Prerequisities
+## Prerequisites
 
 1. [Challenge 1 - Setup](./01-Setup.md) should be done successfully.
 

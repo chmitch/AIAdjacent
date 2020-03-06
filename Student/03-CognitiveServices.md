@@ -1,6 +1,6 @@
 # Challenge 3 - Working with Cognitive Services
 
-## Prerequisities
+## Prerequisites
 
 1. [Challenge 2 - Working with Data in Power BI](./02-Dataflows.md) should be done successfully.
 
@@ -27,7 +27,7 @@ The data warehouse team has the request to add reviews information to the data w
 1. Edit the existing dataflow and import a new entity to include the Bike Reviews data
 1. Enter the connection information for the csv/text file from a url
 1. Add an AI step to the data flow to detect language using the review text
-1. Expand the structured restults of the cognitive service to retrieve the language and language iso code
+1. Expand the structured results of the cognitive service to retrieve the language and language iso code
 1. Add another AI step to score sentiment using the review text and the language iso code as inputs
 1. Add another AI step to extract key phrases using the review text and language iso code as inputs
 1. Save, close, and refresh the data dataflow

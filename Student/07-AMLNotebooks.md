@@ -1,6 +1,6 @@
 # Challenge 7 - Building Models in Azure Machine Learning Notebooks
 
-## Prerequisities
+## Prerequisites
 
 1. [Challenge 6 - Building Models in Azure Machine Learning AutoML](./06-AMLAutoML.md) should be done successfully.
 
@@ -16,7 +16,7 @@ Now that we have completed all the "Core" Challenges, we can extend the capabili
 1.  Create a new dataflow in Power BI to leverage the published API.
 
 ## Basic Hackflow
-1. Go to "https://ml.azure.com" to launch the new "Studio" experince 
+1. Go to "https://ml.azure.com" to launch the new "Studio" experience 
 1. Create a new Notebook
 1. Test the Notebook
 1. Deploy the Notebook to an Endpoint

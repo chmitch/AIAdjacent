@@ -1,6 +1,6 @@
 # Challenge 4 - Building Machine Learning in Power BI
 
-## Prerequisities
+## Prerequisites
 
 1. [Challenge 3 - Working with Cognitive Services](./03-CognitiveServices.md) should be done successfully.
 
@@ -15,8 +15,8 @@ The Adventure Works business users have loved all the additional insights they'v
 
 
 ## Basic Hackflow
-1. Edit the existing data flow and import additional entites for BikeBuyerTraining and ProspectiveBuyer from the data warehouse
-1. Save and refesh the dataflow
+1. Edit the existing data flow and import additional entities for BikeBuyerTraining and ProspectiveBuyer from the data warehouse
+1. Save and refresh the dataflow
 1. Add a new machine learning model to the dataflow
 1. Select BikeBuyerTraining as the data source and BikeBuyer as the target column to predict
 1. Select 1 as the target value, and provide labels for the positive and negative test cases
