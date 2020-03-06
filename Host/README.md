@@ -60,7 +60,7 @@ These are the supplemental script files that go beyond the standard AdventureWor
 
 ### Database Setup Options 1 & 2
 
-These are  our preferred method as it uses the bacpac that is conveniently stored in azure blob storage already.  These methods are  spelled out in detail in [Challenge 1](././Student/01-Setup.md).
+These are  our preferred method as it uses the bacpac that is convenitently stored in azure blob storage already.  These methods are  spelled out in detail in [Challenge 1](/Student/01-Setup.md).
 
 ### Database Setup Option 3
 
