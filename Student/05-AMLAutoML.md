@@ -1,8 +1,8 @@
-# Challenge 6 - Building Models in Azure Machine Learning AutoML
+# Challenge 5 - Building Models in Azure Machine Learning AutoML
 
 ## Prerequisites
 
-1. [Challenge 5 -Building Models in Azure Machine Learning Designer](./05-AMLDesigner.md) should be done successfully.
+1. [Challenge 4 - Building Machine Learning in Power BI](./04-PowerBIAutoML.md) should be done successfully.
 
 ## Introduction
 
@@ -40,4 +40,4 @@ Now that we have created an AML Designer based model and deployed that to an end
 | Azure Machine Learning integration in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
 
 
-[Optional Challenge (Building Models in Azure Machine Learning Notebooks) >](./07-AMLNotebooks.md)
+[Optional challenge (Building Machine Learning Models in Azure Machine Learning AutoML) >](./06-AMLAutoML.md)

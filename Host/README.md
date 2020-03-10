@@ -19,10 +19,9 @@ The following is expected timing for a standard delivery.
 | Challenge 3: Working with Cognitive Services | 45 mins |
 | Presentation 4: Machine Learning with Power BI | 30 mins |
 | Challenge 4: Building Machine Learning in Power BI | 45 mins |
-| Presentation 5: Azure Machine Learning Studio | 30 mins |
-| Challenge 5: Building Models in Azure Machine Learning Designer | 60 mins |
-| Challenge 6: Building Machine Learning in Azure Machine Learning Auto ML| 45 mins |
-| (Optional) Challenge 7: Building Machine Learning in Azure Machine Learning Notebooks | 45 mins |
+| Presentation 5: Azure Machine Learning Overview | 30 mins |
+| Challenge 5: Building Machine Learning in Azure Machine Learning Auto ML | 60 mins |
+| (Optional) Challenge 6: Building Models in Azure Machine Learning Designer | 45 mins |
 
 ## Potential variations for delivery
 
@@ -32,6 +31,7 @@ We realize this may not be ideal for every audience; therefore we see two potent
 
 1. For a more advanced audience - you could remove the "Hackflow Steps" section from the challenges.  This would then force the participants to potentially stumble more and read more documentation/tutorials to complete the challenges.  This would push the workshop to more of a "Hackfest" style of activity.
 1. For a more novice audience - you could supplement the "Hackflow Steps" with more details and screenshots, to force appropriate implementations.  This would effectively convert the content to more of a "Hands on Lab" style of activity.
+1. The final two challenges could be a bit much for some audiences.  These two challenges could potentially be delivered as demos or as instructor led labs.
 
 ## Content
 
