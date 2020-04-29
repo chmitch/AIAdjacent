@@ -14,7 +14,10 @@ Now that we have created an AML Designer based model and deployed that to an end
 1.  Create a new dataflow in Power BI to leverage the published API.
 
 ## Basic Hackflow
-1. Go to "https://ml.azure.com" to launch the new "Studio" experience 
+1. Create an Azure Machine Learning Workspace in your Azure Subscription (Ensure it is "Enterprise")
+1. Go to <a href=https://ml.azure.com target="_blank">ML Studio"</a> to launch the new "Studio" experience, ensure you are in the right "workspace"
+1. Create a "Dataset" from a new "Datastore" by connecting it to the SQLServer in earlier labs and running 
+   1. Use "Select * from BikeBuyerTraining"
 1. Create an AutoML Service
 1. Publish the "Best Model" to an Endpoint
     Try one with "No Authentication", "Token Authentication" and "Key Authentication" to see the differences in the swagger files

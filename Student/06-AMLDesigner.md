@@ -14,10 +14,7 @@ Adventure Works marketing team loves the insights they've been getting from the 
 1.  Create a new dataflow in Power BI to leverage the published API
 
 ## Basic Hackflow
-1. Create an Azure Machine Learning Workspace in your Azure Subscription (Ensure it is "Enterprise")
-1. Go to <a href=https://ml.azure.com target="_blank">ML Studio"</a> to launch the new "Studio" experience, ensure you are in the right "workspace"
-1. Create a "Dataset" from a new "Datastore" by connecting it to the SQLServer in earlier labs and running 
-   1. Use "Select * from BikeBuyerTraining"
+1. Go to "https://ml.azure.com" to launch the new "Studio" experience 
 1. Create a new "Designer" Training Pipeline
    1. Add in the dataset
    2. Add "Edit Metadata" and create categorical features
