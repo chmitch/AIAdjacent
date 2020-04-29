@@ -43,4 +43,4 @@ Now that we have created an AML Designer based model and deployed that to an end
 | Azure Machine Learning integration in Power BI | <https://docs.microsoft.com/en-us/power-bi/service-machine-learning-integration> |
 
 
-[Optional challenge (Building Machine Learning Models in Azure Machine Learning AutoML) >](./06-AMLAutoML.md)
+[Optional challenge (Building Machine Learning Models in Azure Machine Learning AutoML) >](./06-AMLDesigner.md)
