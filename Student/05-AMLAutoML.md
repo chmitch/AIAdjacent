@@ -19,19 +19,8 @@ Now that we have created an AML Designer based model and deployed that to an end
 1. Create a "Dataset" from a new "Datastore" by connecting it to the SQLServer in earlier labs and running 
    1. Use "Select * from BikeBuyerTraining"
 1. Create an AutoML Service
-1. Publish the "Best Model" to an Endpoint
-    Try one with "No Authentication", "Token Authentication" and "Key Authentication" to see the differences in the swagger files
-1. Test the Endpoint in Postman
-1. Test in a Power BI Dataflow
-
-## Hints
-
-1.  Have a closer look at the columns in BikeBuyerTraining and Prospective Buyer.  What is different about these two tables?  Are there any differences that could be preventing you from using your model?
-
-## Learning resources
-
-## Hints
-1.  If you don't want to write code to call the REST API, Postman is a great tool. (http://getpostman.com)
+1. Publish the "Best Model" to an Endpoint ("No Auth")
+1. Test in a Power BI Dataflow like you did the Cognitive Services
 
 
 ## Learning resources
